@@ -21,7 +21,6 @@ Select the best model with proper justification
 File Name	Description
 main.ipynb or model_script.py	Main code file with all steps implemented
 README.md	This file — summary and instructions
-requirements.txt (optional)	Python packages used (scikit-learn, pandas, etc.)
 
 🛠️ Models Implemented
 Linear Regression
